@@ -6,5 +6,26 @@
     <description>Recent content on Gavin Henry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language><atom:link href="https://ghenry.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ghenry.co.uk/about/</link>
+      <pubDate>Sat, 16 Jan 2021 22:02:20 +0000</pubDate>
+      
+      <guid>https://ghenry.co.uk/about/</guid>
+      <description> Email: ghenry AT ghenry dot co dot uk Phone: +91-123123   Mailing Address  221B, Baker Street
+London
+United Kingdom
+  Social  facebook twitter google+  </description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://ghenry.co.uk/contact/</link>
+      <pubDate>Sat, 16 Jan 2021 22:02:15 +0000</pubDate>
+      
+      <guid>https://ghenry.co.uk/contact/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
