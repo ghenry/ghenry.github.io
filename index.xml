@@ -8,26 +8,7 @@
       <url>https://pbs.twimg.com/profile_images/1566092118086516736/CAbU48Qt_400x400.jpg</url>
       <link>https://pbs.twimg.com/profile_images/1566092118086516736/CAbU48Qt_400x400.jpg</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Oct 2022 15:01:03 +0000</lastBuildDate><atom:link href="https://ghenry.co.uk/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Protect your SIP Servers from bad actors</title>
-      <link>https://ghenry.co.uk/posts/welcome/</link>
-      <pubDate>Mon, 03 Oct 2022 15:01:03 +0000</pubDate>
-      
-      <guid>https://ghenry.co.uk/posts/welcome/</guid>
-      <description>Learn about SentryPeer</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ghenry.co.uk/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ghenry.co.uk/about/</guid>
-      <description>about</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ghenry.co.uk/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
