@@ -1,19 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://ghenry.co.uk/about/</loc>
-    <lastmod>2021-01-16T22:02:20+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://ghenry.co.uk/contact/</loc>
-    <lastmod>2021-01-16T22:02:15+00:00</lastmod>
-  </url>
-  
-  <url>
+    <loc>https://ghenry.co.uk/posts/welcome/</loc>
+    <lastmod>2022-10-03T15:01:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/</loc>
+    <lastmod>2022-10-03T15:01:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/first/</loc>
+    <lastmod>2022-10-03T15:01:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/first/</loc>
+    <lastmod>2022-10-03T15:01:03+00:00</lastmod>
+  </url><url>
     <loc>https://ghenry.co.uk/</loc>
+    <lastmod>2022-10-03T15:01:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/posts/</loc>
+    <lastmod>2022-10-03T15:01:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/</loc>
+    <lastmod>2022-10-03T15:01:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/archives/</loc>
+  </url><url>
+    <loc>https://ghenry.co.uk/search/</loc>
   </url>
-  
 </urlset>
