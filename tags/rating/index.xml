@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>rating on Gavin Henry&#39;s Blog</title>
+    <link>https://ghenry.co.uk/tags/rating/</link>
+    <description>Recent content in rating on Gavin Henry&#39;s Blog</description>
+    <image>
+      <url>https://pbs.twimg.com/profile_images/1566092118086516736/CAbU48Qt_400x400.jpg</url>
+      <link>https://pbs.twimg.com/profile_images/1566092118086516736/CAbU48Qt_400x400.jpg</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 11 Oct 2022 19:00:03 +0000</lastBuildDate><atom:link href="https://ghenry.co.uk/tags/rating/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rate That Crypto Game</title>
+      <link>https://ghenry.co.uk/posts/rate-that-crypto-game/</link>
+      <pubDate>Tue, 11 Oct 2022 19:00:03 +0000</pubDate>
+      
+      <guid>https://ghenry.co.uk/posts/rate-that-crypto-game/</guid>
+      <description>Rate That Crypto Game</description>
+      <content:encoded><![CDATA[<h2 id="what-is-it">What is it?</h2>
+<p><img loading="lazy" src="/rate-that-crypto-logo.png" alt="Rate That Crypto Logo"  title="Rate That Crypto Logo"  />
+</p>
+<p><a href="https://ratethatcrypto.com/">Rate That Crypto</a> is a new game I was introduced to by one of my friends, actually one of the co-founders. It&rsquo;s a game
+where you can stake points on cryptocurrency fluctuation predictions:</p>
+<blockquote>
+<p>Climb your way up the leaderboard by making accurate price predictions and multiplying your points. The highest ranking players will earn our native $RTC token, with an additional bonus draw taking place for loyal community members.</p>
+</blockquote>
+<p>You get some points when you start, and you can earn more by watching ads. Of course, you get a multiple if your predictions come true.</p>
+<h2 id="day-to-day">Day to day</h2>
+<p>Every day you can watch three more ads to get more points. I keep having to do that as I go all-in for my predictions. I&rsquo;m not sure if I&rsquo;m doing it right, but I&rsquo;m having fun :-)</p>
+<p>I even got it right once! (I&rsquo;m using an Android phone):</p>
+<p><img loading="lazy" src="/rate-that-crypto-i-won.jpeg" alt="Rate That Crypto Win"  title="Rate That Crypto Win"  />
+</p>
+<h2 id="results">Results</h2>
+<p>I need to read the news section of the app more and pay attention. I&rsquo;m not doing well!</p>
+<p><img loading="lazy" src="/rate-that-crypto-history.jpeg" alt="Rate That Crypto History"  title="Rate That Crypto Results"  />
+</p>
+<h2 id="bugs">Bugs</h2>
+<p>I was a bit late to the app, so wasn&rsquo;t a beta tester. I did however find two bugs that have now been fixed:</p>
+<ol>
+<li>I got the app into a weird situation where I could keep watching ads forever. I racked up the points :-)</li>
+<li>The app wouldn&rsquo;t take any stakes, but logging out and back in fixed it. Support were very helpful.</li>
+</ol>
+<h2 id="conclusion">Conclusion</h2>
+<p>I&rsquo;m running the Android version which is very fast to load and feels slick. My closing thoughts:</p>
+<ul>
+<li>I like the idea of using points and earning more each day to keep playing</li>
+<li>The news feed is good</li>
+<li>I&rsquo;d like to see the graphs of the coins have a period on them (I think it&rsquo;s 24 hrs) so you can see the trend</li>
+<li>I&rsquo;d like email notifications</li>
+</ul>
+<p>All in all, it&rsquo;s fun, and I&rsquo;m going to keep playing. I&rsquo;m not sure if I&rsquo;ll be able to keep up with the top players, but I&rsquo;ll give it a go!</p>
+<h2 id="links">Links</h2>
+<ul>
+<li><a href="https://play.google.com/store/apps/details?id=com.ratethatcrypto.ratethatcrypto">Android version</a></li>
+<li><a href="https://apps.apple.com/app/rate-that-crypto/id1641356643">iOS version</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    
+  </channel>
+</rss>

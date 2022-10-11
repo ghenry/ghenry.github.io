@@ -2,14 +2,68 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://ghenry.co.uk/posts/sentrypeer/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
+    <loc>https://ghenry.co.uk/tags/bitcoin/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/btc/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/crypto/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/cryptocurrency/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/cryptocurrency/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/eth/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/etherium/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/game/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/games/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/games/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/gaming/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/monero/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/posts/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/posts/rate-that-crypto-game/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/ratethatcrypto/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/rating/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/xmr/</loc>
+    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/about/</loc>
     <lastmod>2022-10-03T21:15:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/categories/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/tags/firstpost/</loc>
     <lastmod>2022-10-03T21:10:03+00:00</lastmod>
@@ -29,10 +83,7 @@
     <loc>https://ghenry.co.uk/categories/fraudprotection/</loc>
     <lastmod>2022-10-03T21:10:03+00:00</lastmod>
   </url><url>
-    <loc>https://ghenry.co.uk/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/posts/</loc>
+    <loc>https://ghenry.co.uk/posts/sentrypeer/</loc>
     <lastmod>2022-10-03T21:10:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/tags/security/</loc>
@@ -63,9 +114,6 @@
     <lastmod>2022-10-03T21:10:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/categories/sipservers/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/tags/</loc>
     <lastmod>2022-10-03T21:10:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/tags/voip/</loc>
