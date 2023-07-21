@@ -2,13 +2,109 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://ghenry.co.uk/categories/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/elixir/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/elixir/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/fraud/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/fraud/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/fraudprotection/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/fraudprotection/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/machine-learning/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/machine-learning/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/ofcom/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/ofcom/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/phoenix/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/phoenix/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/postgresql/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/postgresql/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/posts/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/security/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/security/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/sentrypeer/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/sentrypeer/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/posts/sentrypeer-saas-launched-by-founder-of-surevoip/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/sip/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/sip/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/sipsecurity/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/sipsecurity/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/sipservers/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/sipservers/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/timescaledb/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/timescaledb/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/tags/voip/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://ghenry.co.uk/categories/voip/</loc>
+    <lastmod>2023-07-21T14:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://ghenry.co.uk/tags/bitcoin/</loc>
     <lastmod>2022-10-11T19:00:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/tags/btc/</loc>
-    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/categories/</loc>
     <lastmod>2022-10-11T19:00:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/tags/crypto/</loc>
@@ -38,13 +134,7 @@
     <loc>https://ghenry.co.uk/tags/gaming/</loc>
     <lastmod>2022-10-11T19:00:03+00:00</lastmod>
   </url><url>
-    <loc>https://ghenry.co.uk/</loc>
-    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
-  </url><url>
     <loc>https://ghenry.co.uk/tags/monero/</loc>
-    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/posts/</loc>
     <lastmod>2022-10-11T19:00:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/posts/rate-that-crypto-game/</loc>
@@ -54,9 +144,6 @@
     <lastmod>2022-10-11T19:00:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/tags/rating/</loc>
-    <lastmod>2022-10-11T19:00:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/tags/</loc>
     <lastmod>2022-10-11T19:00:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/tags/xmr/</loc>
@@ -71,55 +158,7 @@
     <loc>https://ghenry.co.uk/categories/firstpost/</loc>
     <lastmod>2022-10-03T21:10:03+00:00</lastmod>
   </url><url>
-    <loc>https://ghenry.co.uk/tags/fraud/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/categories/fraud/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/tags/fraudprotection/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/categories/fraudprotection/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
     <loc>https://ghenry.co.uk/posts/sentrypeer/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/tags/security/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/categories/security/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/tags/sentrypeer/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/categories/sentrypeer/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/tags/sip/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/categories/sip/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/tags/sipsecurity/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/categories/sipsecurity/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/tags/sipservers/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/categories/sipservers/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/tags/voip/</loc>
-    <lastmod>2022-10-03T21:10:03+00:00</lastmod>
-  </url><url>
-    <loc>https://ghenry.co.uk/categories/voip/</loc>
     <lastmod>2022-10-03T21:10:03+00:00</lastmod>
   </url><url>
     <loc>https://ghenry.co.uk/archives/</loc>

@@ -9,7 +9,42 @@
       <link>https://pbs.twimg.com/profile_images/1566092118086516736/CAbU48Qt_400x400.jpg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 03 Oct 2022 21:10:03 +0000</lastBuildDate><atom:link href="https://ghenry.co.uk/categories/voip/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 21 Jul 2023 14:00:00 +0000</lastBuildDate><atom:link href="https://ghenry.co.uk/categories/voip/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SentryPeer SaaS launched by founder of SureVoIP</title>
+      <link>https://ghenry.co.uk/posts/sentrypeer-saas-launched-by-founder-of-surevoip/</link>
+      <pubDate>Fri, 21 Jul 2023 14:00:00 +0000</pubDate>
+      
+      <guid>https://ghenry.co.uk/posts/sentrypeer-saas-launched-by-founder-of-surevoip/</guid>
+      <description>Help detect and prevent early attempts of VoIP fraud</description>
+      <content:encoded><![CDATA[<h2 id="help-detect-and-prevent-early-attempts-of-voip-fraud">Help detect and prevent early attempts of VoIP fraud</h2>
+<p><strong>Aberdeen, Scotland:</strong> Ant Networks Limited today announced SentryPeer, a new service.</p>
+<p><a href="https://sentrypeer.com">SentryPeer</a> offers a unique way for Internet Telephony Service Providers, Cybersecurity specialists, and Telecom resellers to help prevent VoIP fraud by detecting early attempts.</p>
+<p>Gavin Henry, founder of SentryPeer, spent the last 12 years building and scaling his previous company, <a href="https://surevoip.co.uk">SureVoIP</a>, an award-winning Internet Telephone Service Provider, which was <a href="https://telcoswitch.com/blog/press-release-telcoswitch-acquires-surevoip-to-enhance-sme-presence-and-network-capabilities/">acquired in July 2021</a>.</p>
+<p>Gavin Henry said -</p>
+<p><em>“I created <a href="https://sentrypeer.com">SentryPeer</a> based on my own experience of running a VoIP based company, to address the need for having an early warning system for VoIP fraud.”</em></p>
+<p><em>“It was also very important to allow users to own their data to avoid lock in. That’s why <a href="https://sentrypeer.com">SentryPeer</a> is an <a href="https://github.com/SentryPeer/SentryPeerHQ">open source platform</a>, so you can always participate and validate that what we say is actually what we are doing.”</em></p>
+<p>Dr. Stefan Pütz. SVP Technical Security, Deutsche Telekom Security and CISO at Deutsche Telekom Group said -</p>
+<p><em>“We noticed Gavin’s impressive work and are happy to support innovative trends protecting customers from fraudsters.”</em></p>
+<p>Features and benefits of SentryPeer include:</p>
+<ul>
+<li>Detect compromised VoIP accounts in real time before you lose money or customer confidence</li>
+<li>Learn customer traffic patterns and detect anomalies</li>
+<li>Check Caller IDs and phone numbers in real time against Ofcom’s Do Not Originate List</li>
+<li>Use its alerting system to programmatically disable customer accounts via various integrations</li>
+</ul>
+<p><a href="https://sentrypeer.com">SentryPeer</a> SaaS is available now at no cost. For more information on SentryPeer, please visit <a href="https://sentrypeer.com">https://sentrypeer.com</a></p>
+<h3 id="about-sentrypeer">About SentryPeer</h3>
+<p><a href="https://sentrypeer.com">SentryPeer</a> is designed to help detect compromised VoIP accounts. These credentials could have been gathered from desk phones, softphones, PBXs and WebRTC services for example. It works by your system always sending an API call for each phone call (or IP address) you want to check. We then send you back a response with the results of our analysis. You can use this information to block the phone call, or take other action.</p>
+<p>It is an open platform supported by <a href="https://www.t-systems.com/de/en/security">Deutsche Telekom Security GmbH</a></p>
+<p>Contact for further details -</p>
+<p>Gavin Henry<br>
+Ant Networks Limited T/A SentryPeer<br>
++447930 323266<br>
+<a href="mailto:ghenry@sentrypeer.com">ghenry@sentrypeer.com</a></p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Protect your SIP Servers from bad actors</title>
       <link>https://ghenry.co.uk/posts/sentrypeer/</link>
