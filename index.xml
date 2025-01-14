@@ -10,7 +10,35 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 21 Jul 2023 14:00:00 +0000</lastBuildDate><atom:link href="https://ghenry.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 29 Dec 2024 19:47:00 +0000</lastBuildDate><atom:link href="https://ghenry.co.uk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://ghenry.co.uk/about/</link>
+      <pubDate>Sun, 29 Dec 2024 19:47:00 +0000</pubDate>
+      
+      <guid>https://ghenry.co.uk/about/</guid>
+      <description>about</description>
+      <content:encoded><![CDATA[<p><img loading="lazy" src="/ghenry_bio_pic_400x400.jpg" alt="Gavin Henry Bio Pic"  title="Gavin Henry Bio Pic"  />
+</p>
+<ul>
+<li>👪 I&rsquo;m father to <a href="https://www.bbc.co.uk/programmes/p06rqp6c">Ben</a> and married to Laura</li>
+<li>💼 I run <a href="https://antnetworks.com/">Ant Networks</a> and founded the acquired <a href="https://www.surevoip.co.uk/">SureVoIP</a> (July 2021), an Internet Telephony Service Provider for which I wrote most of the software that sticks it all together</li>
+<li>🎙️ I&rsquo;m a podcast host for <a href="https://www.se-radio.net/team/gavin-henry/">Software Engineering Radio</a></li>
+<li>🔭 I’m currently working on <a href="https://github.com/SentryPeer/SentryPeer">SentryPeer®</a></li>
+<li>🌱 I’m currently learning about Peer to Peer technologies and Network and Service Discovery Protocols / Technologies, as well as <a href="https://github.com/elixir-lang/elixir">Elixir</a> and <a href="https://github.com/phoenixframework/">Phoenix framework</a> (especially <a href="https://github.com/phoenixframework/phoenix_live_view">LiveView</a>)</li>
+<li>🤔 I’m looking for help with <a href="https://www.terraform.io/">Terraform</a> - <a href="https://github.com/SentryPeer/SentryPeer/issues/12">https://github.com/SentryPeer/SentryPeer/issues/12</a></li>
+<li>💬 Ask me about whatever you like</li>
+<li>🧑‍💻 I&rsquo;m a <a href="https://www.softwareheritage.org/ambassadors/">Software Heritage Ambassador</a></li>
+<li>📷 I&rsquo;m into photography - <a href="https://gavinhenry.com">Gavin Henry&rsquo;s Photo Blog</a> and <a href="https://instagram.com/gavinhenryphotography">Gavin Henry Photography</a> on Instagram</li>
+<li>💲 Ideas are easy. Experience is hard to find. Why not hire me for your next project? I provide consultancy via my company called <a href="https://antnetworks.com">Ant Networks</a></li>
+<li>📫 How to reach me: Twitter: <a href="https://twitter.com/ghenry">@ghenry</a> or GitHub: <a href="https://github.com/ghenry">@ghenry</a></li>
+</ul>
+<p>My interests include all aspects of software engineering, identity management (especially around OpenLDAP),
+all layers of the network stack, systems programming and the free software ecosystem. I have an engineering degree in
+Electronics and Communications and outside of software has a real passion for the field of bushcraft and open canoes.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>SentryPeer SaaS launched by founder of SureVoIP</title>
       <link>https://ghenry.co.uk/posts/sentrypeer-saas-launched-by-founder-of-surevoip/</link>
@@ -533,33 +561,6 @@ Registration Date: 2022-01-26
 <li><a href="https://github.com/garyemiller">@garymiller</a> for the feature request of syslog and Fail2ban as per <a href="https://github.com/SentryPeer/SentryPeer/issues/6"> Fail2ban Integration via syslog #6</a></li>
 <li><a href="https://github.com/joejag">@joejag</a> for the <a href="https://github.com/SentryPeer/SentryPeer/pull/19">Pull Request</a> for the start of <a href="https://github.com/SentryPeer/SentryPeer/issues/12">Terraform recipes to launch SentryPeer on different cloud providers #12</a></li>
 </ul>
-]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://ghenry.co.uk/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://ghenry.co.uk/about/</guid>
-      <description>about</description>
-      <content:encoded><![CDATA[<p><img loading="lazy" src="/ghenry_bio_pic_400x400.jpg" alt="Gavin Henry Bio Pic"  title="Gavin Henry Bio Pic"  />
-</p>
-<ul>
-<li>👪 I&rsquo;m father to <a href="https://www.bbc.co.uk/programmes/p06rqp6c">Ben</a> and married to Laura</li>
-<li>💼 I&rsquo;m the CIO of <a href="https://telcoswitch.com/">TelcoSwitch</a> and founder of the recently acquired <a href="https://www.surevoip.co.uk/">SureVoIP</a> (July 2021), an Internet Telephony Service Provider for which I wrote most of the software that sticks it all together</li>
-<li>🎙️ I&rsquo;m a podcast host for <a href="https://www.se-radio.net/team/gavin-henry/">Software Engineering Radio</a></li>
-<li>🔭 I’m currently working on <a href="https://github.com/SentryPeer/SentryPeer">SentryPeer®</a></li>
-<li>🌱 I’m currently learning about Peer to Peer technologies and Network and Service Discovery Protocols / Technologies, as well as <a href="https://github.com/elixir-lang/elixir">Elixir</a> and <a href="https://github.com/phoenixframework/">Phoenix framework</a> (especially <a href="https://github.com/phoenixframework/phoenix_live_view">LiveView</a>)</li>
-<li>🤔 I’m looking for help with <a href="https://www.terraform.io/">Terraform</a> - <a href="https://github.com/SentryPeer/SentryPeer/issues/12">https://github.com/SentryPeer/SentryPeer/issues/12</a></li>
-<li>💬 Ask me about whatever you like</li>
-<li>🧑‍💻 I&rsquo;m a <a href="https://www.softwareheritage.org/ambassadors/">Software Heritage Ambassador</a></li>
-<li>💲 Ideas are easy. Experience is hard to find. Why not hire me for your next project? I provide consultancy via my company called <a href="https://antnetworks.com">Ant Networks</a></li>
-<li>📫 How to reach me: Twitter: <a href="https://twitter.com/ghenry">@ghenry</a> or GitHub: <a href="https://github.com/ghenry">@ghenry</a></li>
-</ul>
-<p>My interests include all aspects of software engineering, identity management (especially around OpenLDAP),
-all layers of the network stack, systems programming and the free software ecosystem. I have an engineering degree in
-Electronics and Communications and outside of software has a real passion for the field of bushcraft and open canoes.</p>
 ]]></content:encoded>
     </item>
     
